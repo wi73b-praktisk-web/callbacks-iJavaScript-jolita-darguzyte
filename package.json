@@ -1,0 +1,25 @@
+{
+  "name": "node-server-jolita-darguzyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi73b-praktisk-web/callbacks-iJavaScript-jolita-darguzyte.git"
+  },
+  "author": "jolita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi73b-praktisk-web/callbacks-iJavaScript-jolita-darguzyte/issues"
+  },
+  "homepage": "https://github.com/wi73b-praktisk-web/callbacks-iJavaScript-jolita-darguzyte#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
+
+
